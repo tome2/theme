@@ -252,6 +252,9 @@ CORRUPT_RANDOM_TELEPORT = add_corruption
 	-- No oppose field, it will be automatically set when we declare the anti-telep corruption to oppose us
 	["hooks"]       =
 	{
+		[HOOK_CALC_BONUS] = function()
+			player.xtra_f3 = bor(player.xtra_f3, TR3_TELEPORT)
+		end,
 		[HOOK_PROCESS_WORLD] = function()
 			if rand_int(300) == 1 then
 				if magik(70) == TRUE then
