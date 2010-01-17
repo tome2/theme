@@ -17,13 +17,13 @@ F:;:88:3
 F:f:88:3:381
 
 # Floor with grave wight
-F:g:88:3:470
+F:g:88:3:470:0:0:0:0:0:0:2
 
 # Floor with barrow wight
-F:b:88:3:499
+F:b:88:3:499:0:0:0:0:0:0:2
 
 # Floor with Emperor Wight
-F:e:88:3:604
+F:e:88:3:604:0:0:0:0:0:0:2
 
 # Floor with a Human Skeleton
 F:k:88:8:0:395
