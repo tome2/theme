@@ -17,6 +17,7 @@ CORRUPT_BALROG_AURA = add_corruption
 	{
 		[HOOK_CALC_BONUS] = function()
 			player.xtra_f3 = bor(player.xtra_f3, TR3_SH_FIRE)
+			player.xtra_f3 = bor(player.xtra_f3, TR3_LITE1)
 		end,
 		[HOOK_READ] = function(obj)
 			if magik(5) == TRUE then
