@@ -30,6 +30,8 @@
 
 V:2.0.0
 
+
+
 # The Phial of Galadriel
 
 N:1:of Galadriel
@@ -41,6 +43,7 @@ F:INSTA_ART | HIDE_TYPE
 a:HARDCORE=LIGHT
 D:A small crystal phial, with the light of Earendil's Star contained inside.  
 D:Its light is imperishable, and near it darkness cannot endure.
+
 
 # The Star of Elendil
 
@@ -95,6 +98,7 @@ a:HARDCORE=DISP_EVIL
 D:The ancient heirloom of Ingwe, high lord of the Vanyar, against whom nothing 
 D:of evil could stand.
 
+
 # The Necklace 'Nauglamir'
 # Inherits Flare's old activation, since Flare is gone in Theme.
 
@@ -109,6 +113,7 @@ D:A carencet of gold, set with a multitude of shining gems of
 D:Valinor.  Despite its size, its weight seems as that of gossamer.
 
 # The Shadow Blade 'Ancanaur' - adapted from Annals of Ea
+
 
 N:7:'Ancanaur'
 I:23:32:3
@@ -164,6 +169,7 @@ D:The Ring of Fire, set with a ruby that glows like flame.  Narya is one
 D:of the three Rings of Power created by the Elves and hidden by them from 
 D:Sauron.
 
+
 # The Ring of Power 'Nenya'
 
 N:11:of Power 'Nenya'
@@ -179,6 +185,7 @@ a:HARDCORE=NENYA
 D:The Ring of Adamant, with a pure white stone as centrepiece.  Nenya is one 
 D:of the three Rings of Power created by the Elves and hidden by them from 
 D:Sauron.
+
 
 # The Ring of Power 'Vilya'
 
@@ -197,6 +204,7 @@ D:The Ring of Sapphire, with clear blue gems that shine like stars,
 D:glittering untouchable despite all that Sauron ever wrought.  Vilya is 
 D:one of the three Rings of Power created by the Elves and hidden by them 
 D:from Sauron.
+
 
 # The Ring of Power 'The One Ring'
 
@@ -220,6 +228,7 @@ D:burzum-ishi krimpatul". Unadorned, made of massive gold,
 D:set with runes in the foul speech of Mordor, with power so great that it 
 D:inevitably twists and masters any earthly being who wears it.
 
+
 # The Anchor of Space-Time
 
 N:14:of Space-Time
@@ -230,6 +239,7 @@ F:INSTA_ART | LITE1
 D:A powerful stone that provides a strong light for any who 
 D:wields it. It is rumoured that it may even protect the wearer from 
 D:the passing of time.
+
 
 # The Key of Orthanc - replaces Stone of Lore
 # This artifact has a low artifact level to prevent it being worthless for
@@ -280,6 +290,7 @@ D:A suit of tilkal, set with scales of every colour, surrounded in a nimbus
 D:of perfectly untramelled yet inextricably intermingled and utterly mastered 
 D:powers elemental and ethereal.
 
+
 # The Spear of Melkor
 
 N:18:of Melkor
@@ -319,6 +330,7 @@ F:RES_SOUND | RES_CONF | RES_NEXUS
 D:A gleaming steel suit covering the wearer from neck to foot, with runes of 
 D:warding and stability deeply engraved into its surface.
 
+
 # The Metal Brigandine Armour of the Rohirrim
 
 N:21:of the Rohirrim
@@ -330,6 +342,7 @@ F:RES_ACID | RES_ELEC | RES_FIRE | RES_COLD | RES_CONF | RES_SOUND
 D:A stiff suit of armour composed of small metal plates sewn to an 
 D:inner layer of heavy canvas, and covered with a second layer of 
 D:cloth.  Within it is the spirit of Eorl the Young, matchless in combat.
+
 
 # The Mithril Chain Mail 'Belegennon'
 
@@ -347,6 +360,7 @@ D:This wondrous suit of fine-linked chain shimmers as though of pure silver.
 D:It stands untouched amidst the fury of the elements, and a power of 
 D:concealment rests within.
 
+
 # The Mithril Plate Mail of Celeborn
 
 N:23:of Celeborn
@@ -361,6 +375,7 @@ D:A shimmering suit of true-silver, forged long ago by dwarven smiths of
 D:legend.  It gleams with purest white as you gaze upon it, and mighty are 
 D:its powers to protect and banish.
 
+
 # The Chain Mail of Arvedui
 
 N:24:of Arvedui
@@ -372,6 +387,7 @@ F:RES_ACID | RES_ELEC | RES_FIRE | RES_COLD | RES_SHARDS | RES_NEXUS
 D:A hauberk, leggings, and sleeves of interlocking steel rings, well padded 
 D:with leather. You feel strong and tall as Arvedui, last king of Arnor, 
 D:as you put it on.
+
 
 # The Augmented Chain Mail of Caspanion
 
@@ -385,6 +401,7 @@ a:HARDCORE=DEST_DOOR
 D:A hauberk, leggings, and sleeves of interlocking steel rings, strategically 
 D:reinforced at vital locations with a second layer of chain.  Magics to 
 D:enhance body and mind lie within, and no door can hope to resist the wearer.
+
 
 # The Mithril Helm of Gil-galad
 # Designed with no-infravision warrior-types in mind.
@@ -401,6 +418,7 @@ D:The shining helm that Gil-galad, legendary Elven-king, wore in battle.
 # The Leather Jerkin of Tom Bombadil
 # Based on a suggestion by Maverick in the forums:
 # Replaces Trone's coat in Theme.
+
 
 N:27:of Tom Bombadil
 I:36:12:1
@@ -424,6 +442,7 @@ F:RES_ACID | RES_SHARDS
 D:A tunic and skirt sewn with thick, overlapping scales of hardened 
 D:leather whose wearer moves with agility and assurance.
 
+
 # The Pair of Soft Leather Boots of Wormtongue
 
 N:29:of Wormtongue
@@ -436,6 +455,7 @@ Z:panic hit
 D:The pair of boots used by Grima son of Galmod, also named the Wormtongue:  
 D:a treacherous but persuasive counsellor, ever ready to betray, sneak, 
 D:lie, cheat and steal - but never ready to actually fight.
+
 
 # The Small Mithril Shield of Thorin
 
@@ -461,6 +481,7 @@ D:This shield emblazoned with a multitude of creatures not seen for ages
 D:once protected Celegorm, lord of Himlad; around it lies a mystic balance 
 D:that contains the conflicts of the elements.
 
+
 # The Large Metal Shield of Anarion
 
 N:32:of Anarion
@@ -471,6 +492,7 @@ F:RES_ACID | RES_ELEC | RES_FIRE | RES_COLD | SUST_STR | SUST_INT |
 F:SUST_WIS | SUST_DEX | SUST_CON | SUST_CHR | ESP_EVIL
 D:The great metal-bound shield of Anarion, son of Elendil, who Sauron found 
 D:himself powerless to wither or diminish.
+
 
 # The Beaked Axe of Hurin
 
@@ -485,6 +507,7 @@ f:MUST2H
 a:HARDCORE=HURIN
 D:Wielded by Hurin Thalion in the Fifth Battle of Beleriand, this 
 D:troll-bane smoked in the black blood of Gothmog's guards.
+
 
 # The Massive Iron Crown of Morgoth
 
@@ -503,6 +526,7 @@ D:iron. The corrupted metal feels at once as infernal as hellfire
 D:and as chilling as the Outer Darkness. One protrusion from the 
 D:crown is abruptly ended where a third jewel might have shone.
 
+
 # The Iron Crown of Beruthiel
 
 N:35:of Beruthiel
@@ -516,6 +540,7 @@ D:The midnight-hued steel circlet of the sorceress-queen Beruthiel, which
 D:grants extraordinary powers of sight and awareness at a terrible physical 
 D:cost.
 
+
 # The Hard Leather Cap of Thranduil
 
 N:36:of Thranduil
@@ -527,6 +552,7 @@ F:RES_BLIND | ESP_ORC | ESP_EVIL | ESP_TROLL
 D:The hunting cap of King Thranduil, to whose ears come all the secrets of 
 D:his forest domain.
 
+
 # The Metal Cap of Thengel
 
 N:37:of Thengel
@@ -537,6 +563,7 @@ F:WIS | CHR | RES_CONF | HIDE_TYPE | LUCK
 D:A ridged helmet made of steel, and embossed with scenes of valour in fine-
 D:engraved silver.  It grants the wearer nobility, clarity of thought and 
 D:understanding.
+
 
 # The Steel Helm of Hammerhand
 
@@ -550,6 +577,7 @@ F:RES_ACID | RES_NEXUS | RES_COLD | RES_DARK | SLOW_DIGEST |
 Z:berserk
 D:A great helm as steady as the heroes of the Westdike. Mighty were the 
 D:blows of Helm, the Hammerhand!
+
 
 # The Dragon Helm of Dor-Lomin
 
@@ -576,6 +604,7 @@ a:HARDCORE=DETECT_ALL
 D:A famous helm of forged iron granting extraordinary powers of mind and 
 D:awareness.
 
+
 # The Iron Helm of Gorlim
 
 N:41:of Gorlim
@@ -591,6 +620,7 @@ a:HARDCORE=GORLIM
 D:A headpiece, gaudy and barbaric, that betrayed a warrior when he most 
 D:needed succor.
 
+
 # The Golden Crown of Gondor
 
 N:42:of Gondor
@@ -603,6 +633,7 @@ F:LITE1 | SEE_INVIS | REGEN | ACTIVATE
 a:HARDCORE=CURE_700
 D:The shining winged circlet brought by Elendil from dying Numenor, emblem of 
 D:Gondor through an age of the world.
+
 
 # The Jewel Encrusted Crown of Numenor
 # Stolen from Oangband
@@ -647,6 +678,7 @@ D:This elven-grey mantle possesses great powers of tranquility and of
 D:concealment, and grants the wearer the knowledge and understanding of 
 D:the Sindar.
 
+
 # The Cloak of Thingol
 
 N:46:of Thingol
@@ -659,6 +691,7 @@ a:HARDCORE=RECHARGE
 D:A sable-hued cloak, with glowing elven-runes to restore magic showing calm 
 D:and clear as moonlight on still water.
 
+
 # The Cloak of Thorongil
 
 N:47:of Thorongil
@@ -669,6 +702,7 @@ F:FREE_ACT | RES_ACID | SEE_INVIS | RES_FEAR
 D:A cloak of shimmering green and brown that grants sight beyond sight and 
 D:shakes off holding magics, worn by Aragorn son of Arathorn in his youth 
 D:as he adventured under the name of Thorongil.
+
 
 # The Cloak 'Colannon'
 
@@ -682,6 +716,7 @@ a:HARDCORE=TELEPORT
 D:A crystal-blue cape of fine silk worn by a silent messenger of 
 D:the forces of Law. Somehow, its wearer is always able to escape 
 D:trouble.
+
 
 # The Shadow Cloak of Luthien
 
@@ -697,6 +732,7 @@ D:this cloak swirl around you and you feel a hint, a fragment of the
 D:knowledge and power to restore that lay in Luthien, the most beautiful 
 D:being that ever knew death.
 
+
 # The Shadow Cloak of Tuor
 
 N:50:of Tuor
@@ -708,8 +744,8 @@ F:FREE_ACT | IM_ACID | SEE_INVIS | CLIMB
 D:From the ruin of Gondolin did Tuor escape, through secret ways and travail, 
 D:shielded by his cloak from a multitude of hostile eyes.
 
-# The Main Gauche of Azaghal, which wounded Glaurung
 
+# The Main Gauche of Azaghal, which wounded Glaurung
 N:51:of Azaghal
 I:23:5:0
 W:15:30:30:40000
@@ -718,6 +754,7 @@ F:KILL_DRAGON | IM_FIRE | ESP_DRAGON | RES_FEAR
 D:The weapon of Azaghal when he wounded Glaurung.  It is deadly 
 D:when fighting dragons and is said to make the breaths of fire 
 D:completely harmless.
+
 
 # The Set of Leather Gloves 'Cambeleg'
 
@@ -728,6 +765,7 @@ P:1:0d0:8:8:15
 F:STR | CON | HIDE_TYPE | 
 F:FREE_ACT | SHOW_MODS
 D:A hero's handgear that lends great prowess in battle.
+
 
 # The Set of Leather Gloves 'Cammithrim'
 
@@ -805,6 +843,7 @@ F:AGGRAVATE | SHOW_MODS | HEAVY_CURSE | TY_CURSE | TELEPORT | CURSED
 D:A pair of gauntlets that sap combat ability, named after the empty hand 
 D:of Beren that once clasped a Silmaril.
 
+
 # The Set of Cesti of Fingolfin
 
 N:59:of Fingolfin
@@ -817,6 +856,7 @@ a:HARDCORE=BO_MISS_2
 Z:magic missile
 D:The hand-sheathing of Fingolfin, warrior-king of Elves and Men, who gave 
 D:Morgoth seven mighty wounds and pain that will last forever.
+
 
 # The Pair of Hard Leather Boots of Feanor
 
@@ -831,6 +871,7 @@ D:This wondrous pair of leather boots once sped Feanor, creator of the
 D:Silmarils and the mightiest of the Eldar, along the Grinding Ice and to 
 D:Middle-earth at last.
 
+
 # The Pair of Soft Leather Boots 'Dal-i-thalion'
 
 N:61:'Dal-i-thalion'
@@ -844,6 +885,7 @@ a:HARDCORE=CURE_POISON
 D:A pair of high-laced shoes, strong against the powers of corruption and 
 D:withering, that grant the wearer extraordinary agility.
 
+
 # The Pair of Metal Shod Boots of Thror
 
 N:62:of Thror
@@ -854,6 +896,7 @@ F:STR | CON | HIDE_TYPE | SPEED | RES_FEAR | CLIMB
 D:Sturdy footwear of leather and steel as enduring as the long-suffering 
 D:Dwarven King-in-exile who wore them.  Of dwarven make, these boots will 
 D:make their wearer completely at home in the mountains.
+
 
 # The Seeker Arrow of Bard
 # This is, of course, from my 'Artifact Ammo' thread and doesn't need much
@@ -872,6 +915,7 @@ F:SLAY_ORC | SLAY_TROLL | SLAY_GIANT | SLAY_DRAGON | KILL_DRAGON |
 F:BRAND_ACID | BRAND_ELEC | BRAND_FIRE | BRAND_COLD | BRAND_POIS
 D:Deadliest of arrows, imbued with elemental strength, this shaft is 
 D:feared especially by the wyrmkin.
+
 
 # The Main Gauche of Maedhros
 
@@ -943,6 +987,7 @@ a:HARDCORE=BA_POIS_1
 D:A large stiletto dagger that glistens with odourless poison, to which the 
 D:wearer seems oddly immune.
 
+
 # The Dagger 'Belangil'
 
 N:70:'Belangil'
@@ -956,6 +1001,7 @@ F:ACTIVATE | SHOW_MODS | BRAND_POIS
 a:HARDCORE=BELANGIL
 D:A frosty dagger surrounded in a nimbus of ice with a hilt of elk horn and 
 D:an edge to wound the wind.
+
 
 # The Bastard Sword 'Calris'
 
@@ -973,6 +1019,7 @@ D:This sword has runes of power incised on its ornate hilt and a single
 D:blood channel that gleams coldly blue as you grasp this mighty weapon of 
 D:peril.
 
+
 # The Broad Sword 'Aranruth'
 
 N:72:'Aranruth'
@@ -989,6 +1036,7 @@ F:SLOW_DIGEST | SHOW_MODS | HIDE_TYPE | BLESSED
 D:The beautiful sword of Thingol with a hilt of gold and silver inlay, 
 D:glistening icily enough to freeze the hearts of demons.  You feel supple 
 D:and lightfooted as you hold it.
+
 
 # The Broad Sword 'Glamdring'
 
@@ -1061,6 +1109,7 @@ D:Dark and deadly runes stand stark against the naked steel of this awesome
 D:weapon, and you feel a stunning power of slaying and rending as you 
 D:slowly approach.
 
+
 # The Dark Sword 'Mormegil'
 
 N:78:'Mormegil'
@@ -1074,6 +1123,7 @@ F:DRAIN_MANA | DRAIN_HP | DRAIN_EXP
 D:A foul, twisted sword with blackened spines and knobs, whose very name is a 
 D:curse upon the lips of Elves and Men.
 
+
 # The Cutlass 'Gondricam'
 
 N:79:'Gondricam'
@@ -1086,6 +1136,7 @@ F:SEE_INVIS | REGEN | SHOW_MODS
 D:Famed sea-defender of Lebennin.  A short, slightly curved chopping blade  
 D:with a perfect edge shining cleanly in the sun, an object of hate to the 
 D:men of Umbar who met it in combat.
+
 
 # The Executioner's Sword 'Crisdurian'
 
@@ -1130,6 +1181,7 @@ D:The weapon of Fingolfin, High King of the Noldor; it shines like a column
 D:of ice lit by light unquenchable.  Morgoth came but unwillingly to meet it 
 D:of old; his lame foot will remind him of its might should he meet it again.
 
+
 # The Long Sword 'Anduril'
 
 N:83:'Anduril'
@@ -1162,6 +1214,7 @@ F:AGGRAVATE | CURSED
 D:Forged of black galvorn by the Dark-Elven smith Eol, this blade has the 
 D:living lightning trapped inside.
 
+
 # The Long Sword 'Elvagil'
 
 N:85:'Elvagil'
@@ -1173,6 +1226,7 @@ F:SLAY_TROLL | SLAY_ORC | FEATHER | SEE_INVIS | SHOW_MODS
 D:The "Singing Blade", whose wearer can slay Orcs and Trolls in the hidden 
 D:and secret places of the earth.
 
+
 # The Rapier 'Forasgil'
 
 N:86:'Forasgil'
@@ -1182,6 +1236,7 @@ P:0:1d6:12:19:0
 F:SLAY_ANIMAL | BRAND_COLD | RES_COLD | RES_LITE | SHOW_MODS
 D:A slender, tapered blade whose wielder strikes icy blows with deadly 
 D:accuracy.
+
 
 # The Sabre 'Careth Asdriag'
 
@@ -1222,6 +1277,7 @@ F:SEE_INVIS | BLESSED |
 F:SHOW_MODS
 D:A damascened scimitar that seems wondrously easy to hold.  Famed in song as 
 D:the "Sickle of Harad", and a deadly foe to the undead.
+
 
 # The Short Sword 'Gilettar'
 
@@ -1270,6 +1326,7 @@ D:The narrow axe head of this weapon, finely balanced by a crow's beak,
 D:would pierce even the armour of Smaug, and its wielder becomes aware of 
 D:the minds of their enemies.
 
+
 # The Glaive of Pain
 
 N:94:of Pain
@@ -1282,6 +1339,7 @@ f:COULD2H
 D:The massive chopper that crowns this glaive glows blood-red and black; 
 D:fell spells of annihilation swirl and dance as you swing death's myrmidon 
 D:down.
+
 
 # The Halberd 'Osondir'
 
@@ -1296,6 +1354,7 @@ F:COULD2H
 f:COULD2H
 D:Lordly and tall did Osondir stand against the wrath of giants, and 
 D:clear-eyed in barrows fell, wielding a halberd glowing ruby red.
+
 
 # The Pike 'Til-i-arc'
 
@@ -1358,6 +1417,7 @@ D:A thin spike of thrice-forged steel caps a straight sylvan shaft cut from
 D:a legendary tree; spells to break the will of the undead and strike cold 
 D:fear into the hearts of foes lie on this perfectly balanced spear.
 
+
 # The Lance of Eorlingas
 
 N:100:of Eorlingas
@@ -1371,6 +1431,7 @@ f:MUST2H
 D:"Forth Eorlingas!".  To the field of Cormallen came Eorl the Young 
 D:to save beleaguered Gondor, and from his lance fled massive trolls 
 D:and dire wolves.
+
 
 # The Great Axe of Durin
 
@@ -1388,6 +1449,7 @@ D:The twin massive axe heads of this ancient demon's dread gleam with
 D:mithril inlay, which tell sagas of endurance, invoking the powers of 
 D:Khazad-dum to protect the wearer and slay all evils found underground.
 
+
 # The Great Axe of Eonwe
 
 N:102:of Eonwe
@@ -1402,6 +1464,7 @@ a:HARDCORE=MASS_GENO
 D:The axe of Eonwe, leader of the Hosts of the West before the gates of 
 D:Thangorodrim, strikes with icy wrath at the undead, disperses hosts of 
 D:evil at a word, and grants Maia-like powers of body and mind.
+
 
 # The Battle Axe of Balli Stonehand
 
@@ -1418,6 +1481,7 @@ f:COULD2H
 D:The twin blades of this weapon were forged in Belegost, and powerful forces 
 D:to resist and endure lie ready for he who shall wield it once more.
 
+
 # The Battle Axe 'Lotharang'
 
 N:104:'Lotharang'
@@ -1429,6 +1493,7 @@ F:SLAY_TROLL | SLAY_ORC | ACTIVATE | SHOW_MODS
 a:HARDCORE=CURE_MW
 D:A superbly crafted double-bladed axe that slays the creatures of earth and 
 D:allows rapid recovery from their blows.
+
 
 # The Lochaber Axe 'Mundwine' -> of the Dwarves
 
@@ -1551,6 +1616,7 @@ a:HARDCORE=CONFUSE
 D:A flail whose head befuddles those who stare as you whirl it around, and 
 D:becomes a fiery comet as you bring it down.
 
+
 # The Two-Handed Flail 'Thunderfist'
 
 N:113:'Thunderfist'
@@ -1588,6 +1654,7 @@ F:BRAND_FIRE | IM_FIRE | ACTIVATE | SHOW_MODS | LITE1
 a:HARDCORE=FIRESTAR
 D:A famed battle-lord of old, with a ruddy head, coloured as embers are that 
 D:can yet rise up in wrath.
+
 
 # The Mace 'Taratol'
 
@@ -1633,6 +1700,7 @@ f:COULD2H
 D:Named for a fiery star and set with gems of great worth binding mystic 
 D:virtues of protection and thought.
 
+
 # The Quarterstaff 'Eriril'
 
 N:119:'Eriril'
@@ -1644,6 +1712,7 @@ F:SLAY_EVIL | RES_LITE | SEE_INVIS | ACTIVATE | SHOW_MODS
 a:HARDCORE=ID_PLAIN
 D:The radiant golden staff of an Istari of legend, this wizard's companion 
 D:grants keen sight and the knowledge of many hidden things.
+
 
 # The Quarterstaff of Olorin
 
@@ -1693,6 +1762,7 @@ D:Wielded by the High Priest of Meneltarma, this great mace gleams coldly as
 D:though moonlit, and it can strike as mighty a blow spiritually as 
 D:physically.
 
+
 # The Whip of Gothmog
 
 N:123:of Gothmog
@@ -1706,6 +1776,7 @@ F:ESP_DEMON | WOUNDING | SHOW_MODS
 D:With this unbearably bright whip of flame, the Balrog Gothmog has become 
 D:known for never having lost in combat.
 
+
 # The Long Bow 'Belthronding'
 
 N:124:'Belthronding'
@@ -1717,6 +1788,7 @@ F:RES_DISEN | XTRA_SHOTS | SHOW_MODS
 D:The great bow of Beleg, made of black yew and strung with elven hair that 
 D:faintly shines a pale clear gold.
 
+
 # The Long Bow of Bard
 
 N:125:of Bard
@@ -1727,6 +1799,7 @@ F:DEX | HIDE_TYPE | ESP_DRAGON | LUCK
 F:FREE_ACT | XTRA_MIGHT | SHOW_MODS
 D:The great yew bow of grim-faced Bard, who shot the mightiest arrow that 
 D:songs record.
+
 
 # The Light Crossbow 'Cubragol'
 
@@ -1770,6 +1843,7 @@ F:RES_ACID | RES_ELEC | RES_FIRE | RES_COLD
 D:Beor's boomerang makes its wielder as agile as the winds, 
 D:and as hard to harm.
 
+
 # The Metal Boomerang 'Glimdrir'
 
 N:129:'Glimdrir'
@@ -1781,6 +1855,7 @@ F:RES_ACID | RES_ELEC | RES_FIRE | RES_COLD | RES_SOUND | NO_TELE | CURSED
 D:A powerful boomerang that makes one agile and fast, with a thirst for 
 D:evil and undead creatures, but demands its wielder not teleport, for fear 
 D:of desertion.
+
 
 # The Robe of Incanus [aka Gandalf]
 
@@ -1794,6 +1869,7 @@ F:RES_ACID | RES_ELEC | IM_FIRE | RES_COLD
 Z:weigh magic
 D:Gandalf's long, flowing robe.  It provides insight and allows the 
 D:wearer to see things not seen by all.
+
 
 # The Sling of the Thain
 
@@ -1884,6 +1960,7 @@ D:This harp that once belonged to Maglor makes those who use it seem
 D:more forceful and convincing.  It is also said that those who have 
 D:used it found themselves walking faster, as if to an unheard beat.
 
+
 # The Drum of the Sky
 
 N:138:of the Sky
@@ -1898,6 +1975,7 @@ D:wearer an echo of the beauty of the sky, and protects him from the
 D:elements day or night.  The beat of the drum marks the passage of 
 D:time, and will make time pass differently for the wearer.
 
+
 # The Harp of Daeron
 
 N:139:of Daeron
@@ -1909,6 +1987,7 @@ F:RES_ACID | RES_ELEC | RES_FIRE | RES_COLD
 D:A pretty harp that makes those who play it beautiful, wise and 
 D:fast.
 
+
 # The Dwarven Pick of Erebor
 
 N:140:of Erebor
@@ -1919,6 +1998,7 @@ F:STR | TUNNEL | SUST_STR | HIDE_TYPE | LITE1 | ACTIVATE | CLIMB
 F:RES_CHAOS | RES_LITE | RES_DARK
 a:HARDCORE=EREBOR
 D:A pick that provides a magical light by which to see while tunnelling.
+
 
 # The Drum of the Druedain
 
@@ -1932,6 +2012,7 @@ D:The fabled Drum of the Druedain that will protect those who play it
 D:from darkness and poison attacks.  It also aids in the seeing of 
 D:warm-blooded creatures.
 
+
 # The Horn of Rohan
 
 N:142:of Rohan
@@ -1944,6 +2025,7 @@ D:A horn carved from the bones of the Dragon of Ered-Mithrin, this
 D:heirloom of the House of Eorl bestows to its user the gifts of 
 D:courage and command.
 
+
 # The Horn of Helm
 
 N:143:of Helm
@@ -1955,6 +2037,7 @@ a:HARDCORE=HELM
 D:Heedless of cold, fearless of darkness -- besiegers fled at the wind 
 D:of the solitary coming of King Helm Hammerhand, proclaimed by a single 
 D:horn-blast in the dead of winter.
+
 
 # The Horn of Boromir
 
@@ -1979,7 +2062,8 @@ P:0:3d8:14:19:0
 F:BRAND_FIRE | IM_FIRE | CHR | ACTIVATE | SHOW_MODS | CURSED | TY_CURSE
 a:HARDCORE=AXE_GOTHMOG
 D:The black axe of Gothmog, which struck Fingon at Nirnaeth.  Mighty 
-D:spells of evil make it unsafe in any hands but of its original wielder.
+D:spells of evil make it unsafe in any hands but those of its original wielder.
+
 
 # The Seeker Arrow of Gondor
 
@@ -2009,6 +2093,7 @@ D:A warm light bathes this translucent blade.  The power of the fates are
 D:at the command of its wielder as the weapon passes Supreme Judgment on 
 D:the inhabitants of Angband.
 
+
 # The Robe of Great Luck
 
 N:148:of Great Luck
@@ -2019,6 +2104,7 @@ F:LUCK | HIDE_TYPE |
 F:FREE_ACT | DRAIN_HP | DRAIN_MANA
 D:A powerful wizard once created this robe to grant him incredible luck.... 
 D:It seems he forgot to wear it.
+
 
 # The Sling of Farmer Maggot
 
@@ -2036,6 +2122,7 @@ D:his patch almost keeps young poachers at bay, but once they get
 D:within range they soon flee for less painful pastures, frequently 
 D:with rounded pebbles stinging their backsides...
 
+
 # The Long Sword of Angmar (a.k.a. anti-Ringil)
 # The next time someone wields an unidentified Long Sword (4d5) ...
 
@@ -2050,6 +2137,7 @@ F:CURSED | HEAVY_CURSE | DG_CURSE | SHOW_MODS | CLONE
 D:Dark flames wreath the naked steel of the Witch-King of Angmar.  
 D:A mighty curse to all those who wield it apart from its master, 
 D:the torture of the wraithworld awaits those who dare.
+
 
 # The Seeker Bolt of Feanor
 
@@ -2107,6 +2195,7 @@ F:DEX | VORPAL | HIDE_TYPE | SHOW_MODS | WOUNDING
 D:The Petty-dwarves of Bathak forged this blade, and it shares their thirst 
 D:for blood.
 
+
 # The Broad Axe 'Orchast'
 
 N:156:'Orchast'
@@ -2119,6 +2208,7 @@ f:COULD2H
 a:HARDCORE=ORCHAST
 D:Forged by the dwarves of Khazad-dum in a time of desperation, 
 D:this axe turned many a battle against the invading orcs.
+
 
 # The Hatchet of the Night
 
@@ -2155,6 +2245,7 @@ F:SHOW_MODS
 D:Crafted of purest ice and held solid by powerful spells, this icy axe 
 D:delivers a chill of death to its victims.
 
+
 # The Iron Helm of Knowledge
 
 N:160:of Knowledge
@@ -2167,6 +2258,7 @@ a:HARDCORE=KNOWLEDGE
 D:This helm, designed by Petty-Dwarves ages ago to act as the brain of a 
 D:long lost project, is made of finest glass.  Its light banishes all secrets, 
 D:and makes audible whispers from the deceased.
+
 
 ### Trapping Kits ###
 
@@ -2257,6 +2349,7 @@ a:HARDCORE=PROT_EVIL
 D:Contained within this studded cuirass of pliable leather is the memory of 
 D:unvanquished Himring, defiant fortress surrounded by the legions of Morgoth.
 
+
 # The Soft Leather Armour 'Hithlomir'
 
 N:168:'Hithlomir'
@@ -2267,6 +2360,7 @@ F:STEALTH | HIDE_TYPE | SEARCH |
 F:RES_ACID | RES_ELEC | RES_FIRE | RES_COLD | RES_DARK
 D:Familiar with the secret ways hidden in darkness, this leather cuirass is 
 D:truly more than it appears.
+
 
 # The Shield of Deflection of Gil-galad
 # Description from Sangband
@@ -2283,6 +2377,7 @@ a:HARDCORE=GILGALAD
 D:The legendary shield of Gil-Galad, who fought his way to the gates of 
 D:the Dark Tower, and with whom came light even to Gorgoroth.
 
+
 # The Metal Cap of Celebrimbor
 
 N:170:of Celebrimbor
@@ -2298,6 +2393,7 @@ D:knows both fire and acid, from the business of forging and engraving, will
 D:fear neither: nor have his enchantments ever faded.  Celebrimbor was even 
 D:aware of Sauron before Sauron became aware of him, when Sauron put on the 
 D:One Ring for the first time.
+
 
 # The Heavy Crossbow of Umbar 
 
@@ -2328,6 +2424,7 @@ D:twins, the bows are similar, for both protect their wielders from the
 D:elements:  and yet they are also unlike, for this bow gives endurance 
 D:and strength, while the other gives quickness and subtlety.
 
+
 # The Short Bow of Amras
 
 N:173:of Amras
@@ -2341,6 +2438,7 @@ D:and Amras, who both hunted with the Green-elves for a time.  Like the
 D:twins, the bows are similar, for both protect their wielders from the 
 D:elements:  and yet they are also unlike, for this bow gives quickness 
 D:and subtlety, while the other gives endurance and strength.
+
 
 # The Mattock of Nain
 
@@ -2357,6 +2455,7 @@ D:Wielded by Nain of the Iron Hills at the Battle of Azanulbizar, this great
 D:mattock brought victory to the Dwarves over Azog's Orcs - though Nain 
 D:himself fell at the last, even with victory already assured.
 
+
 # The Ball-and-Chain of Fundin Bluecloak 
 
 N:175:of Fundin Bluecloak
@@ -2372,6 +2471,7 @@ a:HARDCORE=FUNDIN
 D:The weapon of one of the great dwarven priests, with powers 
 D:to preserve body, soul and enchantments, and the bane of those 
 D:who seek life beyond death.
+
 
 # The Large Leather Shield of the Haradrim
 
@@ -2416,6 +2516,7 @@ a:HARDCORE=EOL
 D:The iron-shod gauntlets of the Dark Elven smith Eol, tingling with magics 
 D:that he could channel in battle.
 
+
 # The Pair of Hard Leather Boots of Nevrast
 
 N:179:of Nevrast
@@ -2425,6 +2526,7 @@ P:3:1d1:0:0:13
 F:STEALTH | CON | SPEED | HIDE_TYPE
 D:Footgear made of bear leather and set with opals, which grant the wearer 
 D:silent, hasted movement.
+
 
 # The Pair of Metal Shod Boots of Gimli
 
@@ -2449,6 +2551,7 @@ F:SHOW_MODS | SLAY_DEMON | SLAY_EVIL | BRAND_FIRE | BRAND_POIS
 F:LUCK | CHAOTIC | LITE1 | WOUNDING | RES_MORGUL | WIELD_CAST
 F:HEAVY_CURSE | AUTO_CURSE
 
+
 # The Demonshield of Gothmog
 
 N:182:of Gothmog
@@ -2458,6 +2561,7 @@ P:13:1d1:0:0:13
 F:DEX | INVIS | SUST_STR | SUST_CON | SUST_DEX
 F:FEATHER | SH_FIRE | FREE_ACT | HOLD_LIFE
 F:HEAVY_CURSE | AUTO_CURSE | WIELD_CAST
+
 
 # The Demonhorn of Gothmog
 
@@ -2745,6 +2849,7 @@ W:200:1:10:0
 P:0:1d1:0:0:0
 F:INSTA_ART | SPECIAL_GENE
 
+
 # The Palantir of Orthanc
 
 N:202:of Orthanc
@@ -2807,6 +2912,7 @@ D:war on the Elves, but was given as a gift from Celebrimbor to King Durin
 D:III of Moria in token of friendship:  nevertheless, Sauron in disguise 
 D:had a hand in its making, and so it is cursed, and draws evil towards it.
 
+
 # The Elfstone 'Elessar'
 
 N:206:'Elessar'
@@ -2820,6 +2926,7 @@ a:HARDCORE=ELESSAR
 D:This green gem glows with inner light.  Aragorn son of Arathorn wore 
 D:it at the Battle of the Pelennor Fields, and he was himself given the 
 D:name of 'Elessar' by the people of Gondor because of this.
+
 
 # The Jewel 'Evenstar'
 
@@ -2919,6 +3026,7 @@ D:A shaft of pure, invincible crystal cut from the heart of one
 D:of the great glaciers ringing the Ice-Bay of Forochel. 
 D:While you hold it, your mind feels as clear as the winter sky.
 
+
 # The Elven Cloak of Mellyrn
 
 N:214:of Mellyrn
@@ -2932,6 +3040,7 @@ D:and containing in its close-woven folds the speed and skill of
 D:the Galadrim, this grey cloak is ideal for those who travel in 
 D:forests.
 
+
 # The Bluesteel Blade of Ephel Duath
 
 N:215:of Ephel Duath
@@ -2942,6 +3051,7 @@ F:STR | WIS | CHR | BRAND_POIS | VAMPIRIC | VORPAL |
 F:INVIS | AGGRAVATE | CURSED | HEAVY_CURSE | SHOW_MODS | 
 D:This filthy orc-blade is famed for vile deeds of torture and blood, 
 D:and its wielder will never cease to fear treachery.
+
 
 # The Slaughter Axe 'Garachoth'
 
@@ -2958,6 +3068,7 @@ D:creation reverberates with the screams of the damned.  As you gaze into its
 D:glassy, translucent blade, it seems that endless sulphrous wastelands 
 D:stretch away from you into the distance, obscured by sheets of fire.
 
+
 # The Set of Cesti 'Skycleaver'
 
 N:217:'Skycleaver'
@@ -2970,6 +3081,7 @@ F:HIDE_TYPE | SHOW_MODS
 D:The handgear of a legendary dragonslaying hero.  The wearer of these 
 D:wyrmskin gauntlets will be versed in all aerial ways, and will fear no 
 D:dragon that walks or flies.
+
 
 # The Pair of Metal Shod Boots of the Machine
 # Replaced the stealth malus with AGGRAVATE

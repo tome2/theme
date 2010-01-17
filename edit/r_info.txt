@@ -1,4 +1,5 @@
 # File: r_info.txt
+# With new monsters for Zangband 2.2 (or 2.3)
 # With new monsters for PernAngband 3.x.x
 # With lots of monsters for PernAngband 4.x.x
 # With Spirits for ToME 2.1.x
@@ -207,7 +208,7 @@ F:MALE | EVIL | WILD_TOWN | WILD_ONLY |
 F:RAND_25 |  FRIENDS | 
 F:TAKE_ITEM | OPEN_DOOR | DROP_CORPSE | DROP_SKELETON | 
 F:MORTAL | BASEANGBAND | HAS_LITE
-D:He looks squallid and thoroughly revolting. 
+D:He looks squalid and thoroughly revolting. 
 
 N:2:Scrawny cat
 G:f:W
@@ -5583,6 +5584,7 @@ S:S_MONSTER
 D:A strange creature that disguises itself as an object to lure 
 D:unsuspecting adventurers within reach of its venomous claws. 
 
+
 N:354:Fire vortex
 G:v:r
 I:110:9d9:100:30:0
@@ -7638,7 +7640,7 @@ B:BITE:HURT:4d10
 F:CAN_FLY | UNIQUE | FORCE_MAXHP | DROP_CORPSE | CAN_SPEAK |
 F:WILD_ONLY | WILD_MOUNTAIN | WILD_VOLCANO | PET | 
 F:ANIMAL | GOOD | BASEANGBAND
-D:Among the mightiest of birds, Thorondor is the messenger the Valar, and 
+D:Among the mightiest of birds, Thorondor is the messenger of the Valar, and 
 D:brings news of Middle-earth to Valinor itself.  Nothing that can be seen 
 D:from the airs of the world is hidden from him. 
 
@@ -15931,7 +15933,7 @@ F:ONLY_GOLD | DROP_60 | DROP_1D2 |
 F:EVIL | DRAGON  | AQUATIC | BASEANGBAND | ATTR_MULTI
 S:1_IN_12 | 
 S:BR_SOUN
-D:A newly-born dragon turtle. It still hasn't grown a proper shell. 
+D:A newly-hatched dragon turtle. It still hasn't grown a proper shell. 
 
 N:912:Young dragon turtle
 G:d:W

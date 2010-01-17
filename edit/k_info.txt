@@ -847,8 +847,8 @@ W:55:0:2:20
 A:55/2:80/2
 P:0:4d4:0:0:0
 F:SHOW_MODS
-D:Precision-made arrows, which allow to hit precisely the vulnerable place of an
-D:opponent one aimed at. You can use it for 'f'iring a bow.
+D:A precision-made arrow, which allows you to hit precisely the most vulnerable
+D:place of an opponent. You can use it for 'f'iring a bow.
 
 N:80:& Bolt~
 G:{:s
@@ -867,8 +867,8 @@ W:65:0:3:25
 A:65/2:90/2
 P:0:4d5:0:0:0
 F:SHOW_MODS
-D:Precision-made arrows, which allow to hit exactly the vulnerable place of an
-D:opponent one aimed at. You can use it for 'f'iring a crossbow.
+D:A precision-made bolt, which allows you to hit exactly the most vulnerable
+D:place of an opponent. You can use it for 'f'iring a crossbow.
 
 N:82:& Rounded Pebble~
 G:{:s
@@ -2957,7 +2957,7 @@ A:50/4
 P:0:1d1:0:0:0
 F:FULL_NAME | EASY_KNOW
 D:This book seems to flicker strangely. It's one of those books
-D:with an annoying tendency to disappear when you need them and
+D:with an annoying tendency to disappear when you need it and
 D:reappear in the unlikeliest places. As you hold it, you start
 D:to understand what conveyance really means.
 
@@ -3267,8 +3267,8 @@ I:66:26:60
 W:75:0:15:5000
 A:75/1
 P:0:1d1:0:0:0
+D:This rod will cause a small storm of flame to rage in a small circular area of your choice.
 F:IGNORE_ACID | IGNORE_COLD | IGNORE_ELEC | IGNORE_FIRE
-D:This rod will cause a small storm of flame to rage in a a small circular area of your destination.
 
 N:369:Acid Balls
 G:-:d
@@ -3747,7 +3747,7 @@ W:10:0:2:300
 A:10/2
 F:RES_FEAR | EASY_KNOW
 f:RES_FEAR |
-D:This ring grants courage so that wearing it, you can never become afraid.
+D:This ring grants courage, so that you can never become afraid.
 
 N:426:Light and Darkness Resistance
 G:=:d
@@ -5093,6 +5093,7 @@ D:This parchment contains information about unique
 D:artifacts that are rumoured to exist upon Arda.
 
 # The Mimic's cloaks
+
 N:618:& #~
 G:(:y
 I:35:100:0:50

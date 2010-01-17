@@ -63,7 +63,7 @@ they do have a few minor effects on the game. For example, background history
 affects social class, which affects the amount of money the character will
 start with. 
 
-Each character also has six primary "stats", strength (STR), intelligence 
+Each character also has six primary "stats": strength (STR), intelligence 
 (INT), wisdom (WIS), dexterity (DEX), constitution (CON), and charisma(CHR).
 These stats will increase automatically every 5 levels, until the limit for
 each statistic has been reached or until you reach level 50 (whichever 

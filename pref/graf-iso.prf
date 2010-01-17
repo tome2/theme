@@ -472,6 +472,7 @@ F:100:0x80:0xAA
 # high mountain chain
 F:101:0x80:0xDE
 
+# nether mist
 F:102:0x80:0x80
 
 # molten glass wall

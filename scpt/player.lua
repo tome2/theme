@@ -191,5 +191,6 @@ function __birth_hook_objects()
 		end_object(obj)
 		identify_pack_fully()
 end
+
 -- Register in the hook list
 add_hook_script(HOOK_BIRTH_OBJECTS, "__birth_hook_objects", "__birth_hook_objects")

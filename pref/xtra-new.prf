@@ -12,6 +12,7 @@
 ##### AK 20011216 Default pictures for all races that
 #     are not handled below, without caring for class
 
+
 ?:[EQU $RACE Human]
 R:0:0x89/0xA0
 ?:[EQU $RACE Half-Elf]

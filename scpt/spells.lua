@@ -24,7 +24,7 @@ SCHOOL_MANA = add_school
 			["skill"] = SKILL_PRAY,
 			["mul"] = 1,
 			["div"] = 2,
-		}
+		},
 	},
 	["hooks"] =
 	{
@@ -439,7 +439,7 @@ tome_dofile("s_mind.lua")
 tome_dofile("s_udun.lua")
 tome_dofile("s_geom.lua")
 
--- Gods' specific spells
+-- God's specific spells
 tome_dofile("s_eru.lua")
 tome_dofile("s_manwe.lua")
 tome_dofile("s_tulkas.lua")

@@ -174,8 +174,8 @@ C:a:O:23:33:1d1
 C:a:g:Nobody
 
 C:a:N:Demonologist
-C:a:D:Masters of the school of demonology, they both trained in melee
-C:a:D:fighting than using demon spells to enhance their combat potential.
+C:a:D:Masters of the school of demonology, they are trained in both melee
+C:a:D:fighting and using demon spells to enhance their combat potential.
 C:a:O:115:55:1d1
 C:a:k:+0:-50:Combat
 C:a:k:+0:-100:Weaponmastery
@@ -329,7 +329,7 @@ C:a:O:36:2:1d1
 C:a:O:111:50:1d1
 
 C:a:N:Necromancer
-C:a:D:The master of death.
+C:a:D:The master of death, and undeath
 C:a:k:+0:+100:Weaponmastery
 C:a:k:+0:+200:Combat
 C:a:k:+1000:+300:Necromancy
@@ -496,7 +496,7 @@ C:a:O:17:1:10d3
 C:a:g:All Gods
 
 C:N:3:Rogue
-C:D:0:Rogues are masters of tricks, they can steal from shops and monsters
+C:D:0:Rogues are masters of tricks. They can steal from shops and monsters,
 C:D:0:and lure monsters into deadly monster traps.
 C:D:1:Cutpurse
 C:D:1:Robber
@@ -568,7 +568,6 @@ C:k:+1000:+2000:Dodging
 C:g:All Gods
 C:b:10:Extra Max Blow(1)
 
-
 C:a:N:Rogue
 C:a:D:Rogues are masters of tricks. They can steal from shops and monsters,
 C:a:D:and lure monsters into deadly monster traps.
@@ -606,7 +605,7 @@ C:a:O:23:7:1d1
 C:a:O:35:1:1d1
 
 C:N:4:Loremaster
-C:D:0:Loremasters are skilled in most combat and monster skills
+C:D:0:Loremasters are skilled in most combat and monster skills.
 C:D:1:Apprentice
 C:D:1:Apprentice
 C:D:1:Initiate
@@ -642,7 +641,7 @@ C:k:+0:+500:Mimicry
 C:k:+0:+300:Music
 
 C:a:N:Loremaster
-C:a:D:Loremasters are skilled in most combat and monster skills
+C:a:D:Loremasters are skilled in most combat and monster skills.
 C:a:O:21:3:1d1
 C:a:O:36:6:1d1
 C:a:O:19:2:1d1
@@ -1693,7 +1692,7 @@ S:A:Yeek | Wood-Elf | Maia | Easterling
 # Just a place holder, the actualy setting are done with corruptions, see
 # corrupt.lua and player.lua
 S:N:1:Vampire
-S:D:B:Vampires are powerful undead, wielding great powers they still fear the
+S:D:B:Vampires are powerful undead, wielding great powers. They still fear the
 S:D:B:sunlight and cannot easily satiate their hunger.
 S:S:0:0:0:0:0:0:0:100
 S:K:0:0:0:0:0:0:0:0
@@ -2599,10 +2598,10 @@ H:124:100:58:59:50:wavy
 H:125:75:59:60:50:black hair, 
 H:126:100:59:60:50:brown hair, 
 
-H:127:25:60:61:50:a one foot-long beard, 
-H:128:60:60:61:51:a two foot-long beard, 
-H:129:90:60:61:53:a three foot-long beard, 
-H:130:100:60:61:55:a four foot-long beard, 
+H:127:25:60:61:50:a one foot beard, 
+H:128:60:60:61:51:a two foot beard, 
+H:129:90:60:61:53:a three foot beard, 
+H:130:100:60:61:55:a four foot beard, 
 
 H:131:100:61:0:50:and a dark complexion.
 

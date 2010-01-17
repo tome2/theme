@@ -12,8 +12,8 @@ good infra-vision because they live underground. They do have one big
 drawback, though: dwarves are loud-mouthed and proud, singing in boisterous 
 voices, arguing with themselves for no good reason, and screaming out 
 challenges at nearby foes. In other words, dwarves have miserable 
-stealth. They can never be blinded, and they can make fire everywhere they
-go, as well as being able to open secret tunnels through rock.
+stealth. They can never be blinded, and they can also open secret tunnels
+through rock.
 
 #####GStat Modifiers
 Strength        +2   

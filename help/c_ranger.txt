@@ -50,7 +50,7 @@ Monster-lore            0.000           [0.900]
 Ammo creation               2
 
 #####GStarting Equipment
-A ranger begins the game with:
+A Ranger begins the game with:
     a Short Sword
     a Short Bow
     some Arrows
