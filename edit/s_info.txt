@@ -114,7 +114,6 @@ D:Ability to learn and use spells from the Mind school
 D:Spells use the intelligence stat
 A:17:Cast a spell
 I:1000
-F:RANDOM_GAIN
 
 N:55:Udun
 D:Ability to learn and use spells from the Udun school
@@ -142,7 +141,6 @@ D:Ability to combine magic runes to create your own spells
 D:Runespells use the dexterity stat
 A:9:Use Runespells
 I:1000
-F:RANDOM_GAIN
 
 N:43:Thaumaturgy
 D:Ability to gain and cast innate spells
