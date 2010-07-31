@@ -164,9 +164,6 @@ Y:dungeon_stair
 # Option 'Monsters chase current location (v.slow)'
 X:flow_by_sound
 
-# Option 'Monsters chase recent locations (v.slow)'
-X:flow_by_smell
-
 # Option 'Use special symbols for the player char'
 X:player_symbols
 
